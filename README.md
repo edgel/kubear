@@ -2,6 +2,7 @@
 
 Kubernetes Archivier for k8s tool images
 
+Kubernetes v1.11.2
 - /kube/1.11.2/kube-apiserver-amd64
 - /kube/1.11.2/coredns
 - /kube/1.11.2/etcd-amd64
